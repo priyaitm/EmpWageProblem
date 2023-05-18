@@ -10,6 +10,11 @@ public class Main {
       //  System.out.println(employee1.empWage());
 
         EmpWageBuilderUC3 empWageBuilderUC3 = new EmpWageBuilderUC3();
-        empWageBuilderUC3.empCheckWage();
+       // empWageBuilderUC3.empCheckWage();
+
+        EmpWageBuilderUC4 employeeWageObj = new EmpWageBuilderUC4();
+        employeeWageObj.employeeWage();
+
+
     }
 }
